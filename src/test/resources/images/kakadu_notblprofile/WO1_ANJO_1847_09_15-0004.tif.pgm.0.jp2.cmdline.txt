@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=/home/will/local/lib /home/will/local/bin/kdu_compress -precise  Creversible=no Corder=RPCL Clevels=6 ORGgen_plt=yes Cprecincts=\{256,256\},\{256,256\},\{128,128\},\{128,128\},\{128,128\},\{128,128\} Cblk=\{64,64\} -rate 12.000 -i WO1_ANJO_1847_09_15-0004.tif.pgm -o WO1_ANJO_1847_09_15-0004.tif.pgm.0.jp2

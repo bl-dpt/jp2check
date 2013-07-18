@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=/home/will/local/lib /home/will/local/bin/kdu_compress -i WO1_BNER_1882_02_22-0012.tif.pgm -o WO1_BNER_1882_02_22-0012.tif.pgm.kakadu.cb.jp2 Creversible=no Corder=RPCL Clevels=6 ORGgen_plt=yes Cprecincts={256,256},{256,256},{128,128},{128,128},{128,128},{128,128} Cblk={64,64} Cmodes=BYPASS -rate -,10.000,8.727,7.059,5.217,3.429,2.133,1.200,0.600,0.300,0.150,0.075 

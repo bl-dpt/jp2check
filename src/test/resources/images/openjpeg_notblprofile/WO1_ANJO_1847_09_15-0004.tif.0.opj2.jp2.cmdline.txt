@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=/home/will/local/lib /home/will/local/bin/opj_compress -I -p RPCL -n 6 -c [256,256],[256,256],[128,128],[128,128],[128,128],[128,128] -b 64,64 -r 2.0 -i WO1_ANJO_1847_09_15-0004.tif -o WO1_ANJO_1847_09_15-0004.tif.0.jp2
